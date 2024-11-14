@@ -11,7 +11,7 @@ I used the following technologies for this project:
 * HTML
 * Git
 ## Version
-v1
+v2
 ## Features
 * Google fonts
 * Font Awesome
