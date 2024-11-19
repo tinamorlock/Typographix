@@ -12,7 +12,7 @@ I used the following technologies for this project:
 * Git
 * JavaScript
 ## Version
-v2
+v3
 ## Features
 * Google fonts
 * Font Awesome
