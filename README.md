@@ -10,13 +10,21 @@ I used the following technologies for this project:
 * CSS
 * HTML
 * Git
+* JavaScript
 ## Version
 v2
 ## Features
 * Google fonts
 * Font Awesome
 * CSS Animation for icons and text
-## Upcoming Plans
-I used this as a base design for my development portfolio project found here: https://tinamorlock.github.io/Dev-Portfolio/
+* Image Gallery
+* Light/Dark Mode
 ## Current Design
-![image](https://github.com/user-attachments/assets/447aec7a-f255-4629-891c-e89e20cb68ce)
+### Full Design
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+### Dark Mode
+![img_5.png](img_5.png)
